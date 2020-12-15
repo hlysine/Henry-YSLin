@@ -5,4 +5,4 @@
 
 **You may wanna check out:**
 
-[Dashboard](https://github.com/Henry-YSLin/Dashboard) •  [Quick Dictionary](https://github.com/Henry-YSLin/QuickDictionary)
+[Dashboard](https://github.com/Henry-YSLin/Dashboard) • [Quick Regex](https://github.com/Henry-YSLin/QuickRegex) • [Quick Dictionary](https://github.com/Henry-YSLin/QuickDictionary)
