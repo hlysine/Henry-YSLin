@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- I mainly code C#
-- Currently learning Vue.js
+- I mainly code in C#
+- Currently learning React/Vue.js & Typescript
 
 **Currently working on:**
 
-[sudoku-js](https://github.com/Henry-YSLin/sudoku-js)
+[tetris-ai](https://github.com/Henry-YSLin/tetris-ai) [sudoku-js](https://github.com/Henry-YSLin/sudoku-js)
 
 **You may wanna check out:**
 
