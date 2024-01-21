@@ -9,4 +9,4 @@
 
 -----------------------
 
-Random projects: [Dashboard](https://github.com/Henry-YSLin/Dashboard) • [Quick Regex](https://github.com/Henry-YSLin/QuickRegex) • [Quick Dictionary](https://github.com/Henry-YSLin/QuickDictionary) • [AutoClick](https://github.com/Henry-YSLin/AutoClick) • [Timer Plus](https://github.com/Henry-YSLin/TimerPlus) • [tetris-ai](https://github.com/Henry-YSLin/tetris-ai) • [sudoku-js](https://github.com/Henry-YSLin/sudoku-js)
+Random projects: [Create: Connected](https://github.com/hlysine/create_connected) • [Create: Power Loader](https://github.com/hlysine/create_power_loader) • [Dashboard](https://github.com/hlysine/Dashboard) • [Quick Regex](https://github.com/hlysine/QuickRegex) • [Quick Dictionary](https://github.com/hlysine/QuickDictionary) • [AutoClick](https://github.com/hlysine/AutoClick) • [Timer Plus](https://github.com/hlysine/TimerPlus)
